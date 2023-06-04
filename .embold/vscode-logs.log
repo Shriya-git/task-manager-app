@@ -62,3 +62,5 @@
 2023-06-04 22:24:55 error: SQLITE_ERROR: no such table: issues
 2023-06-04 22:26:22 info: file:///c%3A/Users/hp/task-manager/.git/index.lock
 2023-06-04 22:26:22 error: SQLITE_ERROR: no such table: issues
+2023-06-04 22:28:15 info: file:///c%3A/Users/hp/task-manager/.git/index.lock
+2023-06-04 22:28:15 error: SQLITE_ERROR: no such table: issues
