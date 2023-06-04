@@ -1,0 +1,64 @@
+2023-04-16 20:05:35 info: tempDirectory:c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-16 20:05:35 info: Extraction complete for source: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-16 20:05:35 info: Congratulations, your extension "Embold" is now active!
+2023-04-17 13:39:26 info: tempDirectory:c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-17 13:39:26 info: Extraction complete for source: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-17 13:39:26 info: Congratulations, your extension "Embold" is now active!
+2023-04-18 09:15:47 info: tempDirectory:c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-18 09:15:47 info: Extraction complete for source: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-18 09:15:48 info: Congratulations, your extension "Embold" is now active!
+2023-04-26 16:28:40 info: tempDirectory:c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-26 16:28:40 info: Extraction complete for source: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-04-26 16:28:40 info: Congratulations, your extension "Embold" is now active!
+2023-05-02 15:44:37 info: tempDirectory:c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-02 15:44:37 info: Extraction complete for source: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-02 15:44:37 info: Congratulations, your extension "Embold" is now active!
+2023-05-02 15:51:15 info: tempDirectory:c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-02 15:51:15 info: Extraction complete for source: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-02 15:51:15 info: Congratulations, your extension "Embold" is now active!
+2023-05-18 22:30:59 info: tempDirectory:c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-18 22:30:59 info: Extraction complete for source: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-18 22:30:59 info: Congratulations, your extension "Embold" is now active!
+2023-05-18 22:31:51 info: tempDirectory:c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-18 22:31:51 info: Extraction complete for source: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-05-18 22:31:51 info: Congratulations, your extension "Embold" is now active!
+2023-05-31 19:35:50 info: tempDirectory:c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-05-31 19:35:50 info: Extraction complete for source: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-05-31 19:35:50 info: Congratulations, your extension "Embold" is now active!
+2023-06-02 12:55:10 info: tempDirectory:c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-02 12:55:10 info: Extraction complete for source: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-02 12:55:10 info: Congratulations, your extension "Embold" is now active!
+2023-06-02 12:57:11 info: file:///c%3A/Users/hp/task-manager/node_modules/fsevents
+2023-06-02 12:57:11 error: SQLITE_ERROR: no such table: issues
+2023-06-02 13:06:03 info: file:///c%3A/Users/hp/task-manager/models
+2023-06-02 13:06:03 error: SQLITE_ERROR: no such table: issues
+2023-06-02 13:06:08 info: file:///c%3A/Users/hp/task-manager/db
+2023-06-02 13:06:08 error: SQLITE_ERROR: no such table: issues
+2023-06-02 13:06:46 info: file:///c%3A/Users/hp/task-manager/mongoose.js
+2023-06-02 13:06:46 error: SQLITE_ERROR: no such table: issues
+2023-06-02 13:07:32 info: file:///c%3A/Users/hp/task-manager/db/models
+2023-06-02 13:07:32 error: SQLITE_ERROR: no such table: issues
+2023-06-02 13:14:15 info: file:///c%3A/Users/hp/task-manager/models/mongoose.js
+2023-06-02 13:14:15 error: SQLITE_ERROR: no such table: issues
+2023-06-02 15:25:36 info: tempDirectory:c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-02 15:25:36 info: Extraction complete for source: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-02 15:25:36 info: Congratulations, your extension "Embold" is now active!
+2023-06-02 17:59:09 info: file:///c%3A/Users/hp/task-manager/node_modules/fsevents
+2023-06-02 17:59:09 error: SQLITE_ERROR: no such table: issues
+2023-06-02 18:01:58 info: file:///c%3A/Users/hp/task-manager/node_modules/fsevents
+2023-06-02 18:01:58 error: SQLITE_ERROR: no such table: issues
+2023-06-02 18:02:45 info: tempDirectory:c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-02 18:02:45 info: Extraction complete for source: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-02 18:02:45 info: Congratulations, your extension "Embold" is now active!
+2023-06-02 18:11:03 info: file:///c%3A/Users/hp/task-manager/node_modules/fsevents
+2023-06-02 18:11:03 error: SQLITE_ERROR: no such table: issues
+2023-06-02 21:13:17 info: tempDirectory:c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-02 21:13:17 info: Extraction complete for source: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-02 21:13:17 info: Congratulations, your extension "Embold" is now active!
+2023-06-04 22:06:27 info: tempDirectory:c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-04 22:06:27 info: Extraction complete for source: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.5\resources\embold-scanner-archive.zip, destination: c:\Users\hp\.vscode\extensions\embold-vscode.embold-0.1.5\temp
+2023-06-04 22:06:27 info: Congratulations, your extension "Embold" is now active!
+2023-06-04 22:24:55 info: file:///c%3A/Users/hp/task-manager/.git/t95dqHn
+2023-06-04 22:24:55 error: SQLITE_ERROR: no such table: issues
+2023-06-04 22:26:22 info: file:///c%3A/Users/hp/task-manager/.git/index.lock
+2023-06-04 22:26:22 error: SQLITE_ERROR: no such table: issues
